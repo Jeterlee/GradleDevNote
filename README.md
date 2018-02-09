@@ -1,7 +1,7 @@
 ## GradleDevNote
 项目说明：Gradle的学习笔记，及使用方法。
 
-[Gradle参考资料](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/gradle.md)
+[Gradle参考资料](https://github.com/jeterlee/android-dev-note/blob/master/android/android_studio/gradle.md)
 
 
 ## License
