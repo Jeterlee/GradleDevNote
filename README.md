@@ -1,6 +1,7 @@
 ## GradleDevNote
 项目说明：`Gradle`学习笔记，及使用方法。
 
+<<<<<<< HEAD
 
 ## 学习资料
 - Gradle 资料
@@ -32,6 +33,9 @@
     - [gradle学习之旅(十) 依赖声明](http://www.cnblogs.com/Theshy/p/8042750.html)
     - [gradle学习之旅(十一) 使用和配置仓库](http://www.cnblogs.com/Theshy/p/8043166.html)
     - [gradle学习之旅(十二) 本地依赖缓存与解决依赖问题](http://www.cnblogs.com/Theshy/p/8044296.html) 
+=======
+[Gradle参考资料](https://github.com/jeterlee/android-dev-note/blob/master/android/android_studio/gradle.md)
+>>>>>>> 25cb2cdd71ede050b1e00b9287c73631dc8f6041
 
 
 ## License
